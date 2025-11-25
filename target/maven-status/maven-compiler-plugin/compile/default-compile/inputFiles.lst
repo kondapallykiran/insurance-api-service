@@ -1,0 +1,14 @@
+C:\insurance-api-service\src\main\java\com\insurance\api\repository\PersonRepository.java
+C:\insurance-api-service\src\main\java\com\insurance\api\exception\ResourceNotFoundException.java
+C:\insurance-api-service\src\main\java\com\insurance\api\exception\GlobalExceptionHandler.java
+C:\insurance-api-service\src\main\java\com\insurance\api\dto\AddressDto.java
+C:\insurance-api-service\src\main\java\com\insurance\api\service\PersonService.java
+C:\insurance-api-service\src\main\java\com\insurance\api\service\impl\PersonServiceImpl.java
+C:\insurance-api-service\src\main\java\com\insurance\api\controller\PersonController.java
+C:\insurance-api-service\src\main\java\com\insurance\api\dto\PersonRequest.java
+C:\insurance-api-service\src\main\java\com\insurance\api\entity\Person.java
+C:\insurance-api-service\src\main\java\com\insurance\api\config\CorsConfig.java
+C:\insurance-api-service\src\main\java\com\insurance\api\dto\PersonResponse.java
+C:\insurance-api-service\src\main\java\com\insurance\api\InsuranceApiServiceApplication.java
+C:\insurance-api-service\src\main\java\com\insurance\api\entity\Address.java
+C:\insurance-api-service\src\main\java\com\insurance\api\repository\AddressRepository.java

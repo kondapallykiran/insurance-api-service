@@ -1,0 +1,15 @@
+com\insurance\api\dto\PersonRequest.class
+com\insurance\api\service\impl\PersonServiceImpl.class
+com\insurance\api\config\CorsConfig$1.class
+com\insurance\api\InsuranceApiServiceApplication.class
+com\insurance\api\controller\PersonController.class
+com\insurance\api\exception\GlobalExceptionHandler.class
+com\insurance\api\repository\PersonRepository.class
+com\insurance\api\entity\Person.class
+com\insurance\api\entity\Address.class
+com\insurance\api\repository\AddressRepository.class
+com\insurance\api\config\CorsConfig.class
+com\insurance\api\dto\AddressDto.class
+com\insurance\api\exception\ResourceNotFoundException.class
+com\insurance\api\service\PersonService.class
+com\insurance\api\dto\PersonResponse.class
